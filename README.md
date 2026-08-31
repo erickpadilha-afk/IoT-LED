@@ -1,7 +1,7 @@
 # IoT-LED
 <p>Circuito feito no site Tinkercad, no qual faz com que um botão seja pressionado e acenda uma pequena luz de LED.</p>
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)]([https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM](https://www.tinkercad.com/things/c4ASs2fc9dz-brilliant-turing-bigery))
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)]()
 
 
 <h2><strong>Materiais que foram usados</strong></h2>
